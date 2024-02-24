@@ -1,0 +1,14 @@
+C:\TechSwitch\game\bin\Debug\net8.0\game.exe
+C:\TechSwitch\game\bin\Debug\net8.0\game.deps.json
+C:\TechSwitch\game\bin\Debug\net8.0\game.runtimeconfig.json
+C:\TechSwitch\game\bin\Debug\net8.0\game.dll
+C:\TechSwitch\game\bin\Debug\net8.0\game.pdb
+C:\TechSwitch\game\obj\Debug\net8.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSwitch\game\obj\Debug\net8.0\game.AssemblyInfoInputs.cache
+C:\TechSwitch\game\obj\Debug\net8.0\game.AssemblyInfo.cs
+C:\TechSwitch\game\obj\Debug\net8.0\game.csproj.CoreCompileInputs.cache
+C:\TechSwitch\game\obj\Debug\net8.0\game.dll
+C:\TechSwitch\game\obj\Debug\net8.0\refint\game.dll
+C:\TechSwitch\game\obj\Debug\net8.0\game.pdb
+C:\TechSwitch\game\obj\Debug\net8.0\game.genruntimeconfig.cache
+C:\TechSwitch\game\obj\Debug\net8.0\ref\game.dll
